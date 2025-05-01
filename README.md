@@ -89,13 +89,3 @@ node server.js
 cd frontend
 npm start
 ```
-
----
-
-## Screenshots (optional)
-- Home Page with "Add" and "View" buttons
-- View Members card layout
-- Member Details in a centered profile card
-
----
-
