@@ -1,9 +1,3 @@
-# Bit Happens – Student Team Members Management Application
-
-A full stack web application built for managing student team member details including image uploads, roles, and academic background.
-
----
-
 ## Project Description
 
 This app allows users to:
