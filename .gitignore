@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+uploads/
+
+# Build files
+frontend/build/
+.env
+
+# OS/system files
+.DS_Store
+Thumbs.db
