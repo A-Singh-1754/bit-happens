@@ -14,9 +14,9 @@ Built using:
 
 ---
 
-## ⚙Installation Steps
+## Installation Steps
 
-### 🖥1. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/A-Singh-1754/bit-happens.git
@@ -56,7 +56,7 @@ npm start
 
 ---
 
-## 🔗 API Endpoints
+## API Endpoints
 
 | Method | Endpoint              | Description                         |
 |--------|------------------------|-------------------------------------|
